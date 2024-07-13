@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>logo-300x300</title>
+  </head>
+  <body>
+   <h2>logo</h2>
+   <main>
+    <!--TODO: Add link to logo -->
+    <p>Click here to view more <a href="#" target="_blank">logo-300x300 photos</a>.</p>
+    <a href="#"<img src="https://ffc.im/fcc-logo-300x300" alt="A orange logo."></a>
+    <h3>logo lists</h3>
+    <div class="list">
+    <p>Things logo looks <em>like</em>:</p>
+    <ul>
+      <li>log nip</li>
+      <li>log pointer</li>
+      <li>triple_logo</li>
+    </ul>
+    <img src="triple_logo.jpg" alt="triple_logo"> 
+    <p>How does the logo look<strong>like</strong>:</p>
+    <ol>
+       <li>Orange</li>
+       <li>Red></li>
+       <li>Other color>
+     </ol>
+     </div>
+     <img src="logo-300x300" alt="logo-300x300">
+     <form action="/submit-logo-photo">
+       <lable for="indoor"><input id="indoor" type="radio" name="indoor-outdoor" checked> Indoor</label><br>
+       <lable for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor"> Outdoor</lable><br>
+
+       <label for="Loving"><input id="Loving" type="checkbox" name="personality" checked> Loving</label><br>
+       <label for="Lazy"><input id="Lazy" type="checkbox" name="personality"> Lazy</label><br>
+       <label for="energetic"><input id="energetic" type="checkbox" name="personality"> Energetic</label><br>
+       <input type="text" placeholder="logo photo URL" required><br>
+       <button type="submit">Submit</button>
+      
+     </form>
+   </main>
+   <footer>
+     <p><small>No copeyright- <a href:"https://freecodecamp.org">freeCodeCamp.org</a></small></p>
+   </footer>
+</body>
+</html>

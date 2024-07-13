@@ -1,0 +1,36 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <title>PISITIS BAPTIST ACADEMY</title>
+    <h1>PISITIS BAPTIST ACADEMY</h1>
+    <h3>PLOT 1021,1st AVENUE,FHA LUGBE AIRPORT ROAD,FCT-ABUJA</h3>
+    <br />
+    <h2>APPROVED SCHOOL BILL FOR RETURNING PUPILS FOR 2023/2024</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>S/N</th>
+          <th>ITEMES</th>
+          <th>CRECHE</th>
+          <th>Pre-Nursery</th>
+          <th>Nursery</th>
+          <th>BASIC 1-3</th>
+          <th>BASIC 4-6</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
